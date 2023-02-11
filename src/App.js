@@ -20,7 +20,7 @@ function App() {
           {gameState === "end" && <EndScreen />}
         </QuizContext.Provider>
         </div>
-        <div className="card-footer bg-secondary text-dark"><i class="bi bi-c-circle"></i> 2022 - Robz</div>
+        
       </div>
       
     </>
